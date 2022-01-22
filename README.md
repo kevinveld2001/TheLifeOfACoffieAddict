@@ -1,4 +1,4 @@
-# TheLifeOfACoffieAddict
+# TheLifeOfACoffeeAddict
 
 Made By:
 Remco Muller
